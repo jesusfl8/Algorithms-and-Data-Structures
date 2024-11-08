@@ -1,1 +1,1 @@
-Algorithms and Data Structures class and home exercises
+Algorithms and Data Structures exercises
